@@ -629,22 +629,17 @@ ___
 
 # Learning Links of Markdown
 
-- [Markdown Video in bangla](https://youtu.be/7TWhI3kemVM)
 
-- [Bangla Cheat Sheet](https://devsonket.com/markdown/)
 
 + [Emoji Link](https://github.com/JubaerAhmad/gitgub-emoji#table-of-contents)
 
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 - [Badge Website Link](https://shields.io/)
 
-- [Markdown Online Editor](https://stackedit.io/)
 
 - [Diagram Website Link](https://mermaid-js.github.io/mermaid/#/)
 
-- [README.MD Stats Link](https://github.com/anuraghazra/github-readme-stats)
-- [Visualizing-Git](https://git-school.github.io/visualizing-git/)
+
 
 [Go to top:arrow_up: ](#top)
 
