@@ -5,7 +5,7 @@
 
 ## Markdown content
 
->Click on any topic to go there
+>Click on a topic to go there
 
 1. [What is Markdown](#markdown)
 
