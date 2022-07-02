@@ -345,19 +345,19 @@ ___
 # Link Syntax of Markdown
 
 ```
-[Link Text](https://www.darunit.com "Visit Boos")
+[Link Text](https://www.yousufmiah.com "Visit Boos")
 
-To know more about us visit [Darun IT]
+To know more about me visit [Yousuf]
 
-[Darun IT]: https://www.darunit.com "Visit"
+[Yousuf]: https://www.yousufmiah.com "Visit"
 ```
 **Example**
 
-[Link Text](https://www.darunit.com "Visit Boos")
+[Link Text](https://www.yousufmiah.com "Visit Boos")
 
-To know more about us visit [Darun IT]
+To know more about me visit [Yousuf]
 
-[Darun IT]: https://www.darunit.com "Visit"
+[Yousuf]: https://www.yousufmiah.com "Visit"
 
 
 [Go to top:arrow_up: ](#top)
@@ -392,16 +392,16 @@ ___
 # Image Syntax of Markdown
 
 ```
-![Darun IT Logo](logo.png "Logo")
+![Yousuf Logo](logo.png "Logo")
 ```
 
 **Example**
 
-![Darun IT Logo](logo.png "Logo")
+![Yousuf Logo](logo.png "Logo")
 
 **Linkable Image**
 ```
-[![Darun IT Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZVBxXXB2ET_ZNUuNzOE7mvx1fnYOSiUmPzA&usqp=CAU "Download Icon")](https://www.fb.com "Click to download")
+[![Yousuf Logo](link)
 ```
 
 **Way to center image**
@@ -593,11 +593,11 @@ To Select All: <kbd>CTRL</kbd> + <kbd>A</kbd>
 # Badge Syntax of Markdown
 
 ```
-[![Youtube Channel](https://img.shields.io/badge/Darun%20IT-Subscribe-red)](https://www.youtube.com/darunit "My youtube Channel")
+[![Youtube Channel](link hobe)
 ```
 **Example**
 
-[![Youtube Channel](https://img.shields.io/badge/Darun%20IT-Subscribe-red)](https://www.youtube.com/darunit "My youtube Channel")
+[![Youtube Channel](link hobe)
 
 
 [Go to top:arrow_up: ](#top)
