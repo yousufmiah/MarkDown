@@ -620,7 +620,7 @@ ___
 [Go to top:arrow_up: ](#top)
 
 ---
----
+
 <!-- Mention Syntax End -->
 
 [//]: # (Learning Links)
@@ -644,10 +644,6 @@ ___
 [Go to top:arrow_up: ](#top)
 
 ---
----
-<!-- Learning Links End -->
 
-This content is written by [Jubaer Ahmad](https://www.facebook.com/JubaerAhmad.info "This is my fb page link")
 
----
 ***
