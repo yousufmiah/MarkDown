@@ -634,13 +634,6 @@ ___
 + [Emoji Link](https://github.com/JubaerAhmad/gitgub-emoji#table-of-contents)
 
 
-- [Badge Website Link](https://shields.io/)
-
-
-- [Diagram Website Link](https://mermaid-js.github.io/mermaid/#/)
-
-
-
 [Go to top:arrow_up: ](#top)
 
 ---
