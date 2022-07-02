@@ -307,31 +307,31 @@ ___
 **Order list**
 
 ```
-1. Jubaer
-1. Mohammad
-1. Mitu
-1. Bizly
+1. Md
+1. Yousuf
+1. Miah
+
 ```
 **Example**
 
-1. Jubaer
-1. Mohammad
-1. Mitu
-1. Bizly
+1. Md
+1. Yousuf
+1. Miah
+
 
 **Unodder list**
 
 ```
-- Akter Hossain
-* Arif Hossain
-+ Korim Hossain
+- Hasen
+* Hosen
++ Hasan Hosen
 ```
 
 **Example**
 
-- Akter Hossain
-* Arif Hossain
-+ Korim Hossain
+- Hasen
+* Hosen
++ Hasan Hosen
 
 [Go to top:arrow_up: ](#top)
 ___
@@ -451,11 +451,11 @@ ___
 **Inline Code Block**
 
 ```
-This is a variable `let name = "Jubaer"`
+This is a variable `let name = "Yousuf"`
 ```
 ##### Example
 
-This is a variable `let name = "Jubaer"`
+This is a variable `let name = "Yousuf"`
 
 **Multi Line Code Block**
 
@@ -519,24 +519,24 @@ ___
 
 ```
 <details>
-    <summary>About Jubaer Ahmad</summary>
+    <summary>About Yousuf</summary>
 
  # His education
 
- Jubaer Ahmad is a full stack web developer.
- He love to teach people, he is expart in javascript, php and markdown 
+Yousuf is a full stack web developer.
+ He like javascript and markdown 
 </details>
 ```
 
 **Example**
 
 <details>
-    <summary>About Jubaer Ahmad</summary>
+    <summary>About Yousuf </summary>
 
  # His education
 
- Jubaer Ahmad is a full stack web developer.
- He love to teach people, he is expart in javascript, php and markdown 
+ Yousuf is a full stack web developer.
+ He like javascript and markdown 
 </details>
 
 [Go to top:arrow_up: ](#top)
@@ -615,7 +615,7 @@ ___
 
 **Example**
 
-@JubaerAhmad
+@Yousuf
 
 [Go to top:arrow_up: ](#top)
 
@@ -630,8 +630,8 @@ ___
 # Learning Links of Markdown
 
 
-
-+ [Emoji Link](https://github.com/JubaerAhmad/gitgub-emoji#table-of-contents)
++ [Emoji Link](https://getemoji.com/)
++ [Shields Link](https://shields.io/)
 
 
 [Go to top:arrow_up: ](#top)
